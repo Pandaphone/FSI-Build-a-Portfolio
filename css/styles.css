@@ -1,0 +1,18 @@
+h1 {
+  color: lime;
+}
+
+#portfolio {
+  margin: auto;
+  text-align: center;
+  background-color: #36454f;
+  font-size: 20px;
+  font-family: Arial, Verdana, sans-serif;
+}
+
+#bear {
+  border-radius: 20px;
+  border-style: solid;
+  border-color: lime purple cyan pink;
+  cursor: pointer;
+}
